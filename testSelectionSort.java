@@ -4,13 +4,11 @@ import org.junit.Test;
 public class testSelectionSort {
 @Test
 public void test() {
-
 testMixed();
 testDuplicates();
 }
     public testSelectionSort() {
     }
-
 
 
     public void testMixed(){
