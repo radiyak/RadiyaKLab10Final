@@ -4,11 +4,16 @@ import org.junit.Test;
 public class testSelectionSort {
 @Test
 public void test() {
+<<<<<<< HEAD
 testPositive();
 testNegative();
 
 =======
 >>>>>>> Test1
+=======
+testMixed();
+testDuplicates();
+>>>>>>> Test2
 }
     public testSelectionSort() {
     }
@@ -18,7 +23,6 @@ testNegative();
         arr[0] = 8;
         arr[1] = 9;
 =======
-
 
     public void testMixed(){
     	int[] arr = new int[5];
