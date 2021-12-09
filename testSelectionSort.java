@@ -5,4 +5,13 @@ public class testSelectionSort {
 @Test
 public void test() {
 
+testMixed();
+testDuplicates();
+}
+    public testSelectionSort() {
+    }
+
+
+
+    
 }
