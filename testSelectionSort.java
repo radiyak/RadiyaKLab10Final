@@ -6,8 +6,8 @@ public class testSelectionSort {
 public void test() {
 testPositive();
 testNegative();
-testMixed();
-testDuplicates();
+//testMixed();
+//testDuplicates();
 }
     public testSelectionSort() {
     }
