@@ -11,7 +11,7 @@ testDuplicates();
     public testSelectionSort() {
     }
 
-    
+
 
     public void testMixed(){
     	int[] arr = new int[5];
