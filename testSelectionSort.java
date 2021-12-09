@@ -7,24 +7,23 @@ public void test() {
 testPositive();
 testNegative();
 
-<<<<<<< HEAD
-=======
-
-testMixed();
-testDuplicates();
->>>>>>> Test1
 =======
 >>>>>>> Test1
 }
     public testSelectionSort() {
     }
 
-<<<<<<< HEAD
-=======
     public void testPositive(){
         int[] arr = new int[5];
         arr[0] = 8;
         arr[1] = 9;
+=======
+
+
+    public void testMixed(){
+    	int[] arr = new int[5];
+        arr[0] = 0;
+        arr[1] = -9;
         arr[2] = 7;
         arr[3] = 10;
         arr[4] = 2;
